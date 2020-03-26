@@ -6,4 +6,4 @@ Quantity - as stock levels go up and down whereas title and author shouldn't cha
 
 Why is representing a book as an object a better idea than representing it as a string?
 An object is scalable and quicker to reference as it's a complex data type therefore it's easier to work with.
-Whereas a string is a primitive data type which doesn't have any methods which it makes it difficult to structure data.
+Whereas a string is a primitive data type which doesn't have any methods which makes it difficult to structure data.
