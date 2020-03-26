@@ -1,0 +1,9 @@
+If a book is an object, what is its encapsulated data?
+The properties within that object (title, author, quantity)
+
+What data, of a book's encapsulated data, might be changeable?
+Quantity - as stock levels go up and down whereas title and author shouldn't change
+
+Why is representing a book as an object a better idea than representing it as a string?
+An object is scalable and quicker to reference as it's a complex data type therefore it's easier to work with.
+Whereas a string is a primitive data type which doesn't have any methods which it makes it difficult to structure data.
